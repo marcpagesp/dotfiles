@@ -1,0 +1,17 @@
+[2022-09-11][16:01:52][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-11][16:01:52][reqwest::connect][DEBUG] starting new connection: https://lapce.dev/
+[2022-09-11][16:01:52][reqwest::connect][DEBUG] starting new connection: https://api.github.com/
+[2022-09-11][16:01:52][hyper::client::connect::dns][DEBUG] resolving host="lapce.dev"
+[2022-09-11][16:01:52][hyper::client::connect::dns][DEBUG] resolving host="api.github.com"
+[2022-09-11][16:01:52][druid::localization][DEBUG] available locales [], current en-US
+[2022-09-11][16:01:52][druid::localization][DEBUG] resolved: [en-US]
+[2022-09-11][16:01:52][hyper::client::connect::http][DEBUG] connecting to 185.199.109.153:443
+[2022-09-11][16:01:52][hyper::client::connect::http][DEBUG] connecting to 140.82.121.5:443
+[2022-09-11][16:01:52][hyper::client::connect::http][DEBUG] connected to 185.199.109.153:443
+[2022-09-11][16:01:52][hyper::client::connect::http][DEBUG] connected to 140.82.121.5:443
+[2022-09-11][16:01:52][druid_shell::backend::gtk::application][INFO] gtk: Activated application
+[2022-09-11][16:01:52][alacritty_terminal::term][DEBUG] New num_cols is 254 and num_lines is 10
+[2022-09-11][16:01:52][reqwest::async_impl::client][DEBUG] response '200 OK' for https://api.github.com/repos/lapce/lapce/releases/latest
+[2022-09-11][16:01:52][reqwest::async_impl::client][DEBUG] response '200 OK' for https://lapce.dev/volts
+[2022-09-11][16:01:52][hyper::client::pool][DEBUG] pooling idle connection for ("https", lapce.dev)
+[2022-09-11][16:01:52][hyper::client::pool][DEBUG] pooling idle connection for ("https", api.github.com)

@@ -1,0 +1,6 @@
+[Default Applications]
+text/plain=vlc.desktop
+
+[Added Associations]
+text/plain=vlc.desktop;
+image/png=geeqie.desktop;

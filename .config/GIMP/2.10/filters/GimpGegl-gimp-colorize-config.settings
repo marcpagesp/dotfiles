@@ -1,0 +1,16 @@
+# settings
+
+(GimpGegl-gimp-colorize-config "2022-08-14 21:01:21"
+    (time 1660503681)
+    (hue 0.5)
+    (saturation 0.5)
+    (lightness 0)
+    (color (color-rgb 0.25 0.75 0.75)))
+(GimpGegl-gimp-colorize-config "2022-08-14 21:00:46"
+    (time 1660503646)
+    (hue 0.070599999999999996)
+    (saturation 0.5)
+    (lightness 0)
+    (color (color-rgb 0.75 0.46179999999999999 0.25)))
+
+# end of settings

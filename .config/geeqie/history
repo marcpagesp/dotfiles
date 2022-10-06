@@ -1,0 +1,17 @@
+#History lists
+
+[shortcuts]
+".[path](null)"
+"Home[path]/home/marc"
+"Desktop[path]/home/marc/Desktop"
+"Collections[path]/home/marc/.local/share/geeqie/collections"
+
+[path_list]
+"/home/marc"
+"/home/marc/Books"
+"/home/marc/Desktop"
+
+[image_list]
+"/home/marc/Desktop/texture.png"
+
+#end

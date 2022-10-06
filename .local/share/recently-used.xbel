@@ -1,0 +1,2160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/marc/Desktop/wallpaper.png" added="2022-07-25T14:34:21.330669Z" modified="2022-08-14T19:23:28.177615Z" visited="2022-07-25T14:34:21.330670Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-07-26T00:18:37.336256Z" count="4"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2022-08-14T19:23:28.177610Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/AC_DC%20Dirty%20Deeds%20Done%20Dirt%20Cheap.mp3" added="2022-07-25T23:23:55.791510Z" modified="2022-08-23T15:54:00.155817Z" visited="2022-07-25T23:23:55.791511Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155816Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/AC_DC%20-%20Back%20In%20Black.mp3" added="2022-07-25T23:23:55.791524Z" modified="2022-08-23T15:54:00.155795Z" visited="2022-07-25T23:23:55.791524Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155794Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/AC_DC%20-%20Hells%20Bells%20(Official%20Video).mp3" added="2022-07-25T23:23:55.791529Z" modified="2022-08-23T15:54:00.155822Z" visited="2022-07-25T23:23:55.791529Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155821Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/AC_DC%20-%20Highway%20to%20Hell.mp3" added="2022-07-25T23:23:55.791533Z" modified="2022-08-23T15:54:00.155811Z" visited="2022-07-25T23:23:55.791533Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155810Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/AC_DC%20-%20Thunderstruck%20(Official%20Video).mp3" added="2022-07-25T23:23:55.791538Z" modified="2022-08-23T15:54:00.155849Z" visited="2022-07-25T23:23:55.791538Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155848Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/AC_DC%20Let%20There%20be%20rock%201978.mp3" added="2022-07-25T23:23:55.791542Z" modified="2022-08-23T15:54:00.155839Z" visited="2022-07-25T23:23:55.791543Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155837Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/AC_DC%20Jailbreak%201976%20official%20music%20video.mp3" added="2022-07-25T23:23:55.791547Z" modified="2022-08-23T15:54:00.155828Z" visited="2022-07-25T23:23:55.791547Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155826Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/AC_DC%20-%20It&apos;s%20A%20Long%20Way%20to%20the%20Top%20(IF%20You%20Wanna%20Rock%20&apos;%20n&apos;%20Roll)%20%5BHD%5D.mp3" added="2022-07-25T23:23:55.791553Z" modified="2022-08-23T15:54:00.155833Z" visited="2022-07-25T23:23:55.791553Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155832Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Aerosmith%20-%20Dream%20On%20(Official%20Audio).mp3" added="2022-07-25T23:23:55.791562Z" modified="2022-08-23T15:54:00.155858Z" visited="2022-07-25T23:23:55.791562Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155857Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Aerosmith%20-%20Sweet%20Emotion%20(Official%20HD%20Video).mp3" added="2022-07-25T23:23:55.791567Z" modified="2022-08-23T15:54:00.155867Z" visited="2022-07-25T23:23:55.791567Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155866Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Airbourne%20-%20Runnin&apos;%20Wild%20%5BOFFICIAL%20VIDEO%5D.mp3" added="2022-07-25T23:23:55.791570Z" modified="2022-08-23T15:54:00.155903Z" visited="2022-07-25T23:23:55.791570Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155902Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Alice%20Cooper%20-%20School&apos;s%20Out%20(1972)%20HD%200815007.mp3" added="2022-07-25T23:23:55.791573Z" modified="2022-08-23T15:54:00.155881Z" visited="2022-07-25T23:23:55.791573Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155880Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Black%20Sabbath%20-%20Iron%20Man.mp3" added="2022-07-25T23:23:55.791577Z" modified="2022-08-23T15:54:00.155927Z" visited="2022-07-25T23:23:55.791577Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155926Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/BLACK%20SABBATH%20-%20&apos;Paranoid&apos;.mp3" added="2022-07-25T23:23:55.791581Z" modified="2022-08-23T15:54:00.155952Z" visited="2022-07-25T23:23:55.791581Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155951Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/AC_DC%20-%20You%20Shook%20Me%20All%20Night%20Long%20(Official%20Video).mp3" added="2022-07-25T23:23:55.791585Z" modified="2022-08-23T15:54:00.155853Z" visited="2022-07-25T23:23:55.791585Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155852Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Aerosmith%20-%20Crazy%20(Official%20Music%20Video).mp3" added="2022-07-25T23:23:55.791590Z" modified="2022-08-23T15:54:00.155844Z" visited="2022-07-25T23:23:55.791590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155843Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Black%20Sabbath%20&apos;The%20Wizard&apos;.mp3" added="2022-07-25T23:23:55.791594Z" modified="2022-08-23T15:54:00.155890Z" visited="2022-07-25T23:23:55.791594Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155889Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Aerosmith%20-%20Cryin&apos;%20(Official%20Music%20Video).mp3" added="2022-07-25T23:23:55.791599Z" modified="2022-08-23T15:54:00.155872Z" visited="2022-07-25T23:23:55.791599Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155870Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Deep%20Purple%20-%20Perfect%20Strangers%20(Official%20Video).mp3" added="2022-07-25T23:23:55.791602Z" modified="2022-08-23T15:54:00.155894Z" visited="2022-07-25T23:23:55.791602Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155893Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Deep%20Purple%20-%20Highway%20Star.mp3" added="2022-07-25T23:23:55.791606Z" modified="2022-08-23T15:54:00.155899Z" visited="2022-07-25T23:23:55.791606Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155898Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Def%20Leppard%20-%20Love%20Bites.mp3" added="2022-07-25T23:23:55.791610Z" modified="2022-08-23T15:54:00.155922Z" visited="2022-07-25T23:23:55.791610Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155921Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/DEF%20LEPPARD%20-%20&apos;Animal&apos;%20(Official%20Music%20Video).mp3" added="2022-07-25T23:23:55.791613Z" modified="2022-08-23T15:54:00.155918Z" visited="2022-07-25T23:23:55.791613Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155917Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/BLACK%20SABBATH%20-%20&apos;Sabbath%20Bloody%20Sabbath&apos;%20(Official%20Video).mp3" added="2022-07-25T23:23:55.791618Z" modified="2022-08-23T15:54:00.155886Z" visited="2022-07-25T23:23:55.791618Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155885Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Def%20Leppard%20-%20Pour%20Some%20Sugar%20On%20Me%20(version%201%20-%20UK%20concept).mp3" added="2022-07-25T23:23:55.791623Z" modified="2022-08-23T15:54:00.155972Z" visited="2022-07-25T23:23:55.791623Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155972Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/For%20Those%20About%20to%20Rock%20(We%20Salute%20You).mp3" added="2022-07-25T23:23:55.791627Z" modified="2022-08-23T15:54:00.155943Z" visited="2022-07-25T23:23:55.791627Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155942Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Dio%20-%20Rainbow%20In%20The%20Dark.mp3" added="2022-07-25T23:23:55.791632Z" modified="2022-08-23T15:54:00.155933Z" visited="2022-07-25T23:23:55.791632Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155932Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Guns%20N&apos;%20Roses%20-%20Don&apos;t%20Cry%20(Official%20Music%20Video).mp3" added="2022-07-25T23:23:55.791635Z" modified="2022-08-23T15:54:00.155964Z" visited="2022-07-25T23:23:55.791635Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155963Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Guns%20N&apos;%20Roses%20-%20Estranged.mp3" added="2022-07-25T23:23:55.791638Z" modified="2022-08-23T15:54:00.155956Z" visited="2022-07-25T23:23:55.791638Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155955Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Guns%20N&apos;%20Roses%20-%20Sweet%20Child%20O&apos;%20Mine.mp3" added="2022-07-25T23:23:55.791647Z" modified="2022-08-23T15:54:00.155968Z" visited="2022-07-25T23:23:55.791648Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155967Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Guns%20N&apos;%20Roses%20-%20Live%20And%20Let%20Die%20(Live).mp3" added="2022-07-25T23:23:55.791651Z" modified="2022-08-23T15:54:00.155948Z" visited="2022-07-25T23:23:55.791651Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155946Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Guns%20N&apos;%20Roses%20-%20Paradise%20City.mp3" added="2022-07-25T23:23:55.791655Z" modified="2022-08-23T15:54:00.155960Z" visited="2022-07-25T23:23:55.791655Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155959Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Guns%20N&apos;%20Roses%20-%20Welcome%20To%20The%20Jungle.mp3" added="2022-07-25T23:23:55.791659Z" modified="2022-08-23T15:54:00.155980Z" visited="2022-07-25T23:23:55.791659Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155979Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Love%20Gun.mp3" added="2022-07-25T23:23:55.791664Z" modified="2022-08-23T15:54:00.155993Z" visited="2022-07-25T23:23:55.791664Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155993Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Led%20Zeppelin%20-%20Whole%20Lotta%20Love%20(Official%20Music%20Video).mp3" added="2022-07-25T23:23:55.791668Z" modified="2022-08-23T15:54:00.155998Z" visited="2022-07-25T23:23:55.791668Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155997Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Man%20On%20The%20Silver%20Mountain.mp3" added="2022-07-25T23:23:55.791671Z" modified="2022-08-23T15:54:00.156008Z" visited="2022-07-25T23:23:55.791672Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156007Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Mot%C3%B6rhead%20%E2%80%93%20Ace%20Of%20Spades%20(Official%20Video).mp3" added="2022-07-25T23:23:55.791675Z" modified="2022-08-23T15:54:00.156023Z" visited="2022-07-25T23:23:55.791675Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156022Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Metallica%20-%20Whiskey%20In%20The%20Jar%20(Official%20Music%20Video).mp3" added="2022-07-25T23:23:55.791679Z" modified="2022-08-23T15:54:00.156032Z" visited="2022-07-25T23:23:55.791680Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156031Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Mr.%20Brownstone.mp3" added="2022-07-25T23:23:55.791684Z" modified="2022-08-23T15:54:00.156050Z" visited="2022-07-25T23:23:55.791684Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156050Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/M%C3%B6tley%20Cr%C3%BCe%20-%20Dr.%20Feelgood%20(Official%20Music%20Video).mp3" added="2022-07-25T23:23:55.791687Z" modified="2022-08-23T15:54:00.156017Z" visited="2022-07-25T23:23:55.791687Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156016Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Nightrain.mp3" added="2022-07-25T23:23:55.791690Z" modified="2022-08-23T15:54:00.156027Z" visited="2022-07-25T23:23:55.791690Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156026Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Kiss%20-%20I%20Was%20Made%20For%20Lovin&apos;%20You.mp3" added="2022-07-25T23:23:55.791693Z" modified="2022-08-23T15:54:00.156002Z" visited="2022-07-25T23:23:55.791694Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156001Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Ozzy%20Osbourne%20-%20Crazy%20Train%20(Official%20Animated%20Video).mp3" added="2022-07-25T23:23:55.791698Z" modified="2022-08-23T15:54:00.156037Z" visited="2022-07-25T23:23:55.791698Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156036Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/OZZY%20OSBOURNE%20-%20&apos;Mr.%20Crowley&apos;%201981%20(Live%20Video).mp3" added="2022-07-25T23:23:55.791701Z" modified="2022-08-23T15:54:00.156046Z" visited="2022-07-25T23:23:55.791701Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156045Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Knockin&apos;%20On%20Heaven&apos;s%20Door.mp3" added="2022-07-25T23:23:55.791705Z" modified="2022-08-23T15:54:00.155985Z" visited="2022-07-25T23:23:55.791705Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155984Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/My%20Michelle.mp3" added="2022-07-25T23:23:55.791708Z" modified="2022-08-23T15:54:00.156041Z" visited="2022-07-25T23:23:55.791708Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156041Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Rocket%20Queen.mp3" added="2022-07-25T23:23:55.791712Z" modified="2022-08-23T15:54:00.156062Z" visited="2022-07-25T23:23:55.791712Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156061Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Kiss%20-%20Rock%20And%20Roll%20All%20Nite%20(From%20Kiss%20eXposed).mp3" added="2022-07-25T23:23:55.791716Z" modified="2022-08-23T15:54:00.155976Z" visited="2022-07-25T23:23:55.791716Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155975Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Scorpions%20-%20No%20One%20Like%20You%20(Official%20Video).mp3" added="2022-07-25T23:23:55.791719Z" modified="2022-08-23T15:54:00.156072Z" visited="2022-07-25T23:23:55.791719Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156071Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Scorpions%20-%20Rock%20You%20Like%20A%20Hurricane%20(Official%20Video).mp3" added="2022-07-25T23:23:55.791723Z" modified="2022-08-23T15:54:00.156067Z" visited="2022-07-25T23:23:55.791723Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156066Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Scorpions%20-%20Still%20Loving%20You%20(Official%20Video).mp3" added="2022-07-25T23:23:55.791728Z" modified="2022-08-23T15:54:00.156076Z" visited="2022-07-25T23:23:55.791728Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156075Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Skid%20Row%20-%20Youth%20Gone%20Wild%20(Official%20Music%20Video).mp3" added="2022-07-25T23:23:55.791734Z" modified="2022-08-23T15:54:00.156084Z" visited="2022-07-25T23:23:55.791734Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156083Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Speed%20King%20(1995%20Remaster).mp3" added="2022-07-25T23:23:55.791737Z" modified="2022-08-23T15:54:00.156088Z" visited="2022-07-25T23:23:55.791737Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156087Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/T.N.T..mp3" added="2022-07-25T23:23:55.791740Z" modified="2022-08-23T15:54:00.156092Z" visited="2022-07-25T23:23:55.791740Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156091Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/You%20Could%20Be%20Mine.mp3" added="2022-07-25T23:23:55.791744Z" modified="2022-08-23T15:54:00.156099Z" visited="2022-07-25T23:23:55.791744Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156099Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Metallica%20-%20Nothing%20Else%20Matters%20(Official%20Music%20Video).mp3" added="2022-07-25T23:23:55.791747Z" modified="2022-08-23T15:54:00.156012Z" visited="2022-07-25T23:23:55.791747Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156011Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Scorpions%20-%20Wind%20Of%20Change%20(Official%20Music%20Video).mp3" added="2022-07-25T23:23:55.791751Z" modified="2022-08-23T15:54:00.156080Z" visited="2022-07-25T23:23:55.791751Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156079Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Whole%20Lotta%20Rosie.mp3" added="2022-07-25T23:26:08.261960Z" modified="2022-08-23T15:54:00.156095Z" visited="2022-07-25T23:26:08.261960Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156094Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/3%20Doors%20Down%20-%20Kryptonite%20(Official%20Video).mp3" added="2022-07-29T20:50:40.721984Z" modified="2022-08-23T15:54:00.155806Z" visited="2022-07-29T20:50:40.721985Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155805Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Aerosmith%20-%20Livin&apos;%20On%20The%20Edge%20(Official%20Music%20Video).mp3" added="2022-07-29T20:50:40.722033Z" modified="2022-08-23T15:54:00.155862Z" visited="2022-07-29T20:50:40.722034Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155861Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Airbourne%20-%20Too%20Much,%20Too%20Young,%20Too%20Fast%20%5BOFFICIAL%20VIDEO%5D.mp3" added="2022-07-29T20:50:40.722041Z" modified="2022-08-23T15:54:00.155907Z" visited="2022-07-29T20:50:40.722041Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155906Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/All%20Right%20Now.mp3" added="2022-07-29T20:50:40.722066Z" modified="2022-08-23T15:54:00.155876Z" visited="2022-07-29T20:50:40.722066Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155875Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Def%20Leppard%20-%20Hysteria%20(Long%20Version).mp3" added="2022-07-29T20:50:40.722080Z" modified="2022-08-23T15:54:00.155912Z" visited="2022-07-29T20:50:40.722080Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155911Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Disturbed%20-%20Land%20Of%20Confusion%20%5BOfficial%20Music%20Video%5D.mp3" added="2022-07-29T20:50:40.722101Z" modified="2022-08-23T15:54:00.155938Z" visited="2022-07-29T20:50:40.722101Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155937Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Live_Wire%20-%20Shake%20a%20Leg%20Lock%20down%20Version.mp3" added="2022-07-29T20:50:40.722148Z" modified="2022-08-23T15:54:00.155989Z" visited="2022-07-29T20:50:40.722148Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.155988Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Music/Quiet%20Riot%20-%20Cum%20On%20Feel%20The%20Noise.mp3" added="2022-07-29T20:50:40.722210Z" modified="2022-08-23T15:54:00.156055Z" visited="2022-07-29T20:50:40.722210Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2022-08-23T15:54:00.156054Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/Untitled.xcf" added="2022-08-14T19:21:03.881396Z" modified="2022-08-14T19:23:37.085381Z" visited="2022-08-14T19:21:03.881400Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/x-xcf"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2022-08-14T19:23:37.085376Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/aspectresize.c" added="2022-08-15T09:40:09.414948Z" modified="2022-08-15T09:43:30.253496Z" visited="2022-08-15T09:40:09.414952Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253492Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_alpha.h" added="2022-08-15T09:40:09.414984Z" modified="2022-08-15T09:43:30.253631Z" visited="2022-08-15T09:40:09.414987Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253628Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/aspectresize.h" added="2022-08-15T09:40:09.415008Z" modified="2022-08-15T09:43:30.253512Z" visited="2022-08-15T09:40:09.415011Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253509Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_alternativetags.c" added="2022-08-15T09:40:09.415031Z" modified="2022-08-15T09:43:30.253641Z" visited="2022-08-15T09:40:09.415034Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253638Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_alternativetags.h" added="2022-08-15T09:40:09.415052Z" modified="2022-08-15T09:43:30.253524Z" visited="2022-08-15T09:40:09.415055Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253520Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_anybar.c" added="2022-08-15T09:40:09.415073Z" modified="2022-08-15T09:43:30.253535Z" visited="2022-08-15T09:40:09.415076Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253532Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/attachx.h" added="2022-08-15T09:40:09.415094Z" modified="2022-08-15T09:43:30.253546Z" visited="2022-08-15T09:40:09.415097Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253543Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/autostart.h" added="2022-08-15T09:40:09.415114Z" modified="2022-08-15T09:43:30.253600Z" visited="2022-08-15T09:40:09.415117Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253597Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/autostart.c" added="2022-08-15T09:40:09.415136Z" modified="2022-08-15T09:43:30.253568Z" visited="2022-08-15T09:40:09.415139Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253565Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_anybar.h" added="2022-08-15T09:40:09.415157Z" modified="2022-08-15T09:43:30.253579Z" visited="2022-08-15T09:40:09.415160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253575Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar.c" added="2022-08-15T09:40:09.415177Z" modified="2022-08-15T09:43:30.253589Z" visited="2022-08-15T09:40:09.415180Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253586Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_alpha.c" added="2022-08-15T09:40:09.415198Z" modified="2022-08-15T09:43:30.253759Z" visited="2022-08-15T09:40:09.415201Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253755Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_dwmblocks.h" added="2022-08-15T09:40:09.415218Z" modified="2022-08-15T09:43:30.253977Z" visited="2022-08-15T09:40:09.415221Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253974Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_awesomebar.c" added="2022-08-15T09:40:09.415238Z" modified="2022-08-15T09:43:30.253558Z" visited="2022-08-15T09:40:09.415241Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253554Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar.h" added="2022-08-15T09:40:09.415258Z" modified="2022-08-15T09:43:30.253610Z" visited="2022-08-15T09:40:09.415260Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253607Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_fancybar.c" added="2022-08-15T09:40:09.415278Z" modified="2022-08-15T09:43:30.253988Z" visited="2022-08-15T09:40:09.415281Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253984Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/attachx.c" added="2022-08-15T09:40:09.415299Z" modified="2022-08-15T09:43:30.253874Z" visited="2022-08-15T09:40:09.415302Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253871Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_flexwintitle.c" added="2022-08-15T09:40:09.415319Z" modified="2022-08-15T09:43:30.253662Z" visited="2022-08-15T09:40:09.415322Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253659Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_ewmhtags.c" added="2022-08-15T09:40:09.415340Z" modified="2022-08-15T09:43:30.253673Z" visited="2022-08-15T09:40:09.415343Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253669Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_holdbar.h" added="2022-08-15T09:40:09.415361Z" modified="2022-08-15T09:43:30.253833Z" visited="2022-08-15T09:40:09.415364Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253830Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_dwmblocks.c" added="2022-08-15T09:40:09.415382Z" modified="2022-08-15T09:43:30.253621Z" visited="2022-08-15T09:40:09.415385Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253618Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_flexwintitle.h" added="2022-08-15T09:40:09.415402Z" modified="2022-08-15T09:43:30.253791Z" visited="2022-08-15T09:40:09.415405Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253788Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_layoutmenu.h" added="2022-08-15T09:40:09.415422Z" modified="2022-08-15T09:43:30.253726Z" visited="2022-08-15T09:40:09.415425Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253723Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_ltsymbol.c" added="2022-08-15T09:40:09.415442Z" modified="2022-08-15T09:43:30.253737Z" visited="2022-08-15T09:40:09.415445Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253734Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_awesomebar.h" added="2022-08-15T09:40:09.415463Z" modified="2022-08-15T09:43:30.253652Z" visited="2022-08-15T09:40:09.415465Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253649Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_indicators.c" added="2022-08-15T09:40:09.415483Z" modified="2022-08-15T09:43:30.253694Z" visited="2022-08-15T09:40:09.415486Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253691Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_fancybar.h" added="2022-08-15T09:40:09.415503Z" modified="2022-08-15T09:43:30.253780Z" visited="2022-08-15T09:40:09.415506Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253777Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_ewmhtags.h" added="2022-08-15T09:40:09.415524Z" modified="2022-08-15T09:43:30.253683Z" visited="2022-08-15T09:40:09.415526Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253680Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_powerline_tags.c" added="2022-08-15T09:40:09.415544Z" modified="2022-08-15T09:43:30.254194Z" visited="2022-08-15T09:40:09.415547Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254191Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_status.c" added="2022-08-15T09:40:09.415561Z" modified="2022-08-15T09:43:30.253801Z" visited="2022-08-15T09:40:09.415564Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253798Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_ltsymbol.h" added="2022-08-15T09:40:09.415576Z" modified="2022-08-15T09:43:30.253864Z" visited="2022-08-15T09:40:09.415579Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253861Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_status.h" added="2022-08-15T09:40:09.415591Z" modified="2022-08-15T09:43:30.253823Z" visited="2022-08-15T09:40:09.415594Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253820Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_status2d.c" added="2022-08-15T09:40:09.415606Z" modified="2022-08-15T09:43:30.253844Z" visited="2022-08-15T09:40:09.415609Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253841Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_status2d.h" added="2022-08-15T09:40:09.415621Z" modified="2022-08-15T09:43:30.253957Z" visited="2022-08-15T09:40:09.415624Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253954Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_powerline_tags.h" added="2022-08-15T09:40:09.415637Z" modified="2022-08-15T09:43:30.253812Z" visited="2022-08-15T09:40:09.415639Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253809Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_statusbutton.h" added="2022-08-15T09:40:09.415651Z" modified="2022-08-15T09:43:30.253967Z" visited="2022-08-15T09:40:09.415654Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253964Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_holdbar.c" added="2022-08-15T09:40:09.415666Z" modified="2022-08-15T09:43:30.254153Z" visited="2022-08-15T09:40:09.415669Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254150Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_powerline_status.c" added="2022-08-15T09:40:09.415682Z" modified="2022-08-15T09:43:30.253748Z" visited="2022-08-15T09:40:09.415684Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253745Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_indicators.h" added="2022-08-15T09:40:09.415697Z" modified="2022-08-15T09:43:30.253706Z" visited="2022-08-15T09:40:09.415700Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253702Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_powerline_status.h" added="2022-08-15T09:40:09.415712Z" modified="2022-08-15T09:43:30.253769Z" visited="2022-08-15T09:40:09.415714Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253766Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_statuscolors.h" added="2022-08-15T09:40:09.415728Z" modified="2022-08-15T09:43:30.253906Z" visited="2022-08-15T09:40:09.415731Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253904Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_statusbutton.c" added="2022-08-15T09:40:09.415743Z" modified="2022-08-15T09:43:30.253936Z" visited="2022-08-15T09:40:09.415746Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253934Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_tabgroups.h" added="2022-08-15T09:40:09.415758Z" modified="2022-08-15T09:43:30.254039Z" visited="2022-08-15T09:40:09.415761Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254036Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_statuscmd.c" added="2022-08-15T09:40:09.415772Z" modified="2022-08-15T09:43:30.253854Z" visited="2022-08-15T09:40:09.415774Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253851Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_tabgroups.c" added="2022-08-15T09:40:09.415787Z" modified="2022-08-15T09:43:30.253946Z" visited="2022-08-15T09:40:09.415790Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253944Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_layoutmenu.c" added="2022-08-15T09:40:09.415803Z" modified="2022-08-15T09:43:30.253716Z" visited="2022-08-15T09:40:09.415805Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253713Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_statuscolors.c" added="2022-08-15T09:40:09.415818Z" modified="2022-08-15T09:43:30.253896Z" visited="2022-08-15T09:40:09.415821Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253893Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_taggrid.h" added="2022-08-15T09:40:09.415833Z" modified="2022-08-15T09:43:30.254122Z" visited="2022-08-15T09:40:09.415835Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254119Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_systray.c" added="2022-08-15T09:40:09.415848Z" modified="2022-08-15T09:43:30.253916Z" visited="2022-08-15T09:40:09.415850Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253913Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_taglabels.h" added="2022-08-15T09:40:09.415862Z" modified="2022-08-15T09:43:30.254009Z" visited="2022-08-15T09:40:09.415865Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254005Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_taglabels.c" added="2022-08-15T09:40:09.415877Z" modified="2022-08-15T09:43:30.254080Z" visited="2022-08-15T09:40:09.415879Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254077Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_tagpreview.h" added="2022-08-15T09:40:09.415892Z" modified="2022-08-15T09:43:30.254019Z" visited="2022-08-15T09:40:09.415895Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254016Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_tagicons.c" added="2022-08-15T09:40:09.415907Z" modified="2022-08-15T09:43:30.254049Z" visited="2022-08-15T09:40:09.415910Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254046Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_tagicons.h" added="2022-08-15T09:40:09.415922Z" modified="2022-08-15T09:43:30.253998Z" visited="2022-08-15T09:40:09.415924Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253995Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_vtcolors.h" added="2022-08-15T09:40:09.415936Z" modified="2022-08-15T09:43:30.254090Z" visited="2022-08-15T09:40:09.415938Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254087Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_winicon.c" added="2022-08-15T09:40:09.415951Z" modified="2022-08-15T09:43:30.254101Z" visited="2022-08-15T09:40:09.415953Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254098Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_winicon.h" added="2022-08-15T09:40:09.415966Z" modified="2022-08-15T09:43:30.254268Z" visited="2022-08-15T09:40:09.415968Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254266Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_statuscmd.h" added="2022-08-15T09:40:09.415981Z" modified="2022-08-15T09:43:30.253886Z" visited="2022-08-15T09:40:09.415984Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253883Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_tags.h" added="2022-08-15T09:40:09.415996Z" modified="2022-08-15T09:43:30.254215Z" visited="2022-08-15T09:40:09.415998Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254212Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_tagpreview.c" added="2022-08-15T09:40:09.416011Z" modified="2022-08-15T09:43:30.254029Z" visited="2022-08-15T09:40:09.416013Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254026Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_vtcolors.c" added="2022-08-15T09:40:09.416026Z" modified="2022-08-15T09:43:30.254070Z" visited="2022-08-15T09:40:09.416028Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254066Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_wintitle_floating.c" added="2022-08-15T09:40:09.416048Z" modified="2022-08-15T09:43:30.254205Z" visited="2022-08-15T09:40:09.416050Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254202Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_wintitle_floating.h" added="2022-08-15T09:40:09.416063Z" modified="2022-08-15T09:43:30.254247Z" visited="2022-08-15T09:40:09.416065Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254244Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_taggrid.c" added="2022-08-15T09:40:09.416078Z" modified="2022-08-15T09:43:30.254059Z" visited="2022-08-15T09:40:09.416081Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254056Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_wintitle.c" added="2022-08-15T09:40:09.416093Z" modified="2022-08-15T09:43:30.254278Z" visited="2022-08-15T09:40:09.416095Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254275Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_tags.c" added="2022-08-15T09:40:09.416107Z" modified="2022-08-15T09:43:30.254132Z" visited="2022-08-15T09:40:09.416109Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254129Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_wintitle.h" added="2022-08-15T09:40:09.416122Z" modified="2022-08-15T09:43:30.254112Z" visited="2022-08-15T09:40:09.416124Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254109Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/cfacts.c" added="2022-08-15T09:40:09.416136Z" modified="2022-08-15T09:43:30.254184Z" visited="2022-08-15T09:40:09.416138Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254181Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/cmdcustomize.c" added="2022-08-15T09:40:09.416151Z" modified="2022-08-15T09:43:30.254237Z" visited="2022-08-15T09:40:09.416153Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254234Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/combo.c" added="2022-08-15T09:40:09.416165Z" modified="2022-08-15T09:43:30.254412Z" visited="2022-08-15T09:40:09.416167Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254409Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/cfacts.h" added="2022-08-15T09:40:09.416180Z" modified="2022-08-15T09:43:30.254288Z" visited="2022-08-15T09:40:09.416182Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254285Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_wintitle_hidden.h" added="2022-08-15T09:40:09.416195Z" modified="2022-08-15T09:43:30.254163Z" visited="2022-08-15T09:40:09.416197Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254160Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_wintitleactions.c" added="2022-08-15T09:40:09.416210Z" modified="2022-08-15T09:43:30.254143Z" visited="2022-08-15T09:40:09.416212Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254140Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/cool_autostart.h" added="2022-08-15T09:40:09.416225Z" modified="2022-08-15T09:43:30.254299Z" visited="2022-08-15T09:40:09.416226Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254295Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/cmdcustomize.h" added="2022-08-15T09:40:09.416239Z" modified="2022-08-15T09:43:30.254258Z" visited="2022-08-15T09:40:09.416241Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254255Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/decorationhints.c" added="2022-08-15T09:40:09.416254Z" modified="2022-08-15T09:43:30.254339Z" visited="2022-08-15T09:40:09.416256Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254336Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/decorationhints.h" added="2022-08-15T09:40:09.416269Z" modified="2022-08-15T09:43:30.254402Z" visited="2022-08-15T09:40:09.416271Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254399Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_wintitle_hidden.c" added="2022-08-15T09:40:09.416284Z" modified="2022-08-15T09:43:30.254174Z" visited="2022-08-15T09:40:09.416286Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254171Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/distributetags.c" added="2022-08-15T09:40:09.416298Z" modified="2022-08-15T09:43:30.254329Z" visited="2022-08-15T09:40:09.416300Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254327Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/distributetags.h" added="2022-08-15T09:40:09.416312Z" modified="2022-08-15T09:43:30.254392Z" visited="2022-08-15T09:40:09.416314Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254389Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_wintitleactions.h" added="2022-08-15T09:40:09.416327Z" modified="2022-08-15T09:43:30.254226Z" visited="2022-08-15T09:40:09.416329Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254223Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/dragmfact.c" added="2022-08-15T09:40:09.416343Z" modified="2022-08-15T09:43:30.254443Z" visited="2022-08-15T09:40:09.416345Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254440Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/dragmfact.h" added="2022-08-15T09:40:09.416358Z" modified="2022-08-15T09:43:30.254381Z" visited="2022-08-15T09:40:09.416361Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254378Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/bar_systray.h" added="2022-08-15T09:40:09.416373Z" modified="2022-08-15T09:43:30.253927Z" visited="2022-08-15T09:40:09.416375Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.253924Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/dwmc" added="2022-08-15T09:40:09.416389Z" modified="2022-08-15T09:43:30.254423Z" visited="2022-08-15T09:40:09.416391Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254419Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/combo.h" added="2022-08-15T09:40:09.416405Z" modified="2022-08-15T09:43:30.254309Z" visited="2022-08-15T09:40:09.416407Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254306Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/dragcfact.c" added="2022-08-15T09:40:09.416419Z" modified="2022-08-15T09:43:30.254371Z" visited="2022-08-15T09:40:09.416422Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254369Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/cool_autostart.c" added="2022-08-15T09:40:09.416439Z" modified="2022-08-15T09:43:30.254352Z" visited="2022-08-15T09:40:09.416441Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254348Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/dragcfact.h" added="2022-08-15T09:40:09.416458Z" modified="2022-08-15T09:43:30.254433Z" visited="2022-08-15T09:40:09.416461Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254430Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/cyclelayouts.h" added="2022-08-15T09:40:09.416478Z" modified="2022-08-15T09:43:30.254319Z" visited="2022-08-15T09:40:09.416481Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254316Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/cyclelayouts.c" added="2022-08-15T09:40:09.416498Z" modified="2022-08-15T09:43:30.254362Z" visited="2022-08-15T09:40:09.416501Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:43:30.254359Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/dwmc.c" added="2022-08-15T09:41:45.034041Z" modified="2022-08-15T09:45:38.027631Z" visited="2022-08-15T09:41:45.034044Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:45:38.027626Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/exresize.c" added="2022-08-15T09:45:38.027643Z" modified="2022-08-15T09:45:38.027651Z" visited="2022-08-15T09:45:38.027645Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:45:38.027648Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/exresize.h" added="2022-08-15T09:45:38.027658Z" modified="2022-08-15T09:45:38.027667Z" visited="2022-08-15T09:45:38.027661Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:45:38.027663Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/floatpos.c" added="2022-08-15T09:45:38.027673Z" modified="2022-08-15T09:45:38.027681Z" visited="2022-08-15T09:45:38.027676Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:45:38.027679Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/focusadjacenttag.c" added="2022-08-15T09:45:38.027688Z" modified="2022-08-15T09:45:38.027696Z" visited="2022-08-15T09:45:38.027690Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:45:38.027693Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/floatpos.h" added="2022-08-15T09:45:38.027702Z" modified="2022-08-15T09:45:38.027710Z" visited="2022-08-15T09:45:38.027704Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:45:38.027707Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/focusadjacenttag.h" added="2022-08-15T09:45:38.027716Z" modified="2022-08-15T09:45:38.027724Z" visited="2022-08-15T09:45:38.027718Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:45:38.027721Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/focusdir.c" added="2022-08-15T09:45:38.027730Z" modified="2022-08-15T09:45:38.027737Z" visited="2022-08-15T09:45:38.027732Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:45:38.027735Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/dwmc.h" added="2022-08-15T09:45:38.027744Z" modified="2022-08-15T09:45:38.027752Z" visited="2022-08-15T09:45:38.027747Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:45:38.027749Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/fakefullscreenclient.h" added="2022-08-15T09:45:38.027758Z" modified="2022-08-15T09:45:38.027766Z" visited="2022-08-15T09:45:38.027760Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:45:38.027763Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/focusdir.h" added="2022-08-15T09:45:38.027772Z" modified="2022-08-15T09:45:38.027780Z" visited="2022-08-15T09:45:38.027774Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:45:38.027777Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/fakefullscreenclient.c" added="2022-08-15T09:45:38.027786Z" modified="2022-08-15T09:45:38.027793Z" visited="2022-08-15T09:45:38.027788Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:45:38.027790Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/focusmaster.c" added="2022-08-15T09:45:38.027799Z" modified="2022-08-15T09:45:38.027807Z" visited="2022-08-15T09:45:38.027801Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:45:38.027804Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/focusmaster.h" added="2022-08-15T09:45:38.027813Z" modified="2022-08-15T09:45:38.027821Z" visited="2022-08-15T09:45:38.027815Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:45:38.027818Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/fullscreen.c" added="2022-08-15T09:45:38.027826Z" modified="2022-08-15T09:45:38.027834Z" visited="2022-08-15T09:45:38.027829Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:45:38.027831Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/focusurgent.c" added="2022-08-15T09:45:38.027841Z" modified="2022-08-15T09:45:38.027849Z" visited="2022-08-15T09:45:38.027843Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:45:38.027846Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/focusurgent.h" added="2022-08-15T09:45:38.027854Z" modified="2022-08-15T09:45:38.027874Z" visited="2022-08-15T09:45:38.027857Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:45:38.027870Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/fsignal.h" added="2022-08-15T09:45:38.027881Z" modified="2022-08-15T09:45:38.027890Z" visited="2022-08-15T09:45:38.027885Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:45:38.027887Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/dwmbackup/patch/fsignal.c" added="2022-08-15T09:45:38.027897Z" modified="2022-08-15T09:45:38.027906Z" visited="2022-08-15T09:45:38.027900Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T09:45:38.027903Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/2022-08-15-10:48:21-screenshot.png" added="2022-08-15T10:35:15.166584Z" modified="2022-08-15T10:35:15.395386Z" visited="2022-08-15T10:35:15.166587Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2022-08-15T10:35:15.395383Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/2022-08-15-12:33:42-screenshot.png" added="2022-08-15T10:37:19.798773Z" modified="2022-08-15T10:37:20.036595Z" visited="2022-08-15T10:37:19.798777Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2022-08-15T10:37:20.036592Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/Untitled.png" added="2022-08-15T10:38:28.175701Z" modified="2022-08-15T10:38:56.039000Z" visited="2022-08-15T10:38:28.175704Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2022-08-15T10:38:31.260146Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-15T10:38:56.038990Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/amulet-v1.21.10-linux.zip" added="2022-08-15T20:52:23.684096Z" modified="2022-08-23T21:28:04.833285Z" visited="2022-08-15T20:52:23.684097Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-23T21:28:04.833282Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/RUB%C4%B0K%20CUBE%203X3.zip" added="2022-08-17T14:27:03.090361Z" modified="2022-08-17T14:27:03.413765Z" visited="2022-08-17T14:27:03.090362Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-17T14:27:03.413763Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/texture.png" added="2022-08-17T14:35:33.816065Z" modified="2022-08-17T14:35:45.913550Z" visited="2022-08-17T14:35:33.816066Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-17T14:35:34.127580Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2022-08-17T14:35:45.913548Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/cubo-rubik3x3.zip" added="2022-08-17T14:44:23.423009Z" modified="2022-08-17T14:44:23.725245Z" visited="2022-08-17T14:44:23.423011Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-17T14:44:23.725238Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Desktop/rubik_s_cube_black_BLENDER.blend" added="2022-08-17T14:57:24.204527Z" modified="2022-08-17T14:57:34.012771Z" visited="2022-08-17T14:57:24.204529Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-blender"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-17T14:57:34.012766Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Code/memo/models/texture.png" added="2022-08-18T10:50:58.267220Z" modified="2022-08-18T21:54:11.016396Z" visited="2022-08-18T10:50:58.267221Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2022-08-18T21:54:11.016393Z" count="20"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Code/memo/main.lua" added="2022-08-19T09:31:00.831938Z" modified="2022-08-19T09:31:00.831946Z" visited="2022-08-19T09:31:00.831939Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-lua"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-19T09:31:00.831941Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Code/memo/models/test/cube.mtl" added="2022-08-19T09:31:22.603034Z" modified="2022-08-19T09:31:22.603043Z" visited="2022-08-19T09:31:22.603035Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="model/mtl"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-19T09:31:22.603039Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/building-microservices-go.pdf" added="2022-08-19T13:57:38.490259Z" modified="2022-08-19T13:57:38.775838Z" visited="2022-08-19T13:57:38.490260Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-19T13:57:38.775836Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/the%20little%20go%20book.epub" added="2022-08-19T13:59:29.684004Z" modified="2022-08-19T13:59:29.987262Z" visited="2022-08-19T13:59:29.684005Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/epub+zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-19T13:59:29.987258Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/Network.Programming.With.Go.pdf" added="2022-08-19T14:05:58.906257Z" modified="2022-08-19T14:05:59.205848Z" visited="2022-08-19T14:05:58.906258Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-19T14:05:59.205846Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/Black-Hat-Go_Go-Programming-For-Hackers-and-Pentesters.pdf" added="2022-08-19T14:06:42.755172Z" modified="2022-08-19T14:06:43.102239Z" visited="2022-08-19T14:06:42.755174Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-19T14:06:43.102234Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/Spaceship-Go.pdf" added="2022-08-19T14:08:43.036457Z" modified="2022-08-19T14:08:43.036466Z" visited="2022-08-19T14:08:43.036458Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-19T14:08:43.036462Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/Comparing%20C%20and%20Golang%20(%20PDFDrive%20).pdf" added="2022-08-19T14:11:52.091903Z" modified="2022-08-19T14:11:52.091912Z" visited="2022-08-19T14:11:52.091904Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-19T14:11:52.091908Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/Concurrency-in-Go.pdf" added="2022-08-19T14:18:12.154454Z" modified="2022-08-19T14:18:12.455981Z" visited="2022-08-19T14:18:12.154454Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-19T14:18:12.455973Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/zlib.pub_building-distributed-applications-in-gin-a-hands-on-guide-for-go-developers-to-build-and-deploy-distributed-web-apps-with-the-gin-framework.pdf" added="2022-08-19T14:18:50.662823Z" modified="2022-08-19T14:18:50.662829Z" visited="2022-08-19T14:18:50.662824Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-19T14:18:50.662826Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/Lets%20Go%20Further%20(Alex%20Edwards)%20(z-lib.org).pdf" added="2022-08-19T14:20:14.802264Z" modified="2022-08-19T14:20:14.802271Z" visited="2022-08-19T14:20:14.802265Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-19T14:20:14.802268Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/GO_DESIGN_PATTERNS@bzd_channel.pdf" added="2022-08-19T14:27:18.683339Z" modified="2022-08-19T14:27:56.809522Z" visited="2022-08-19T14:27:18.683340Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-19T14:27:56.809519Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/Go-in-Practice.pdf" added="2022-08-19T14:27:48.053570Z" modified="2022-08-19T14:27:48.359346Z" visited="2022-08-19T14:27:48.053571Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-19T14:27:48.359344Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/Roboto_Mono.zip" added="2022-08-23T17:57:18.945318Z" modified="2022-08-23T17:57:19.241987Z" visited="2022-08-23T17:57:18.945323Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-23T17:57:19.241983Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Code/memo/export/html" added="2022-08-23T21:51:20.170385Z" modified="2022-08-23T21:51:20.170392Z" visited="2022-08-23T21:51:20.170386Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-23T21:51:20.170388Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/8d906c_zapatos-escolares-pdf.pdf" added="2022-08-30T14:18:26.702877Z" modified="2022-08-30T14:18:26.702888Z" visited="2022-08-30T14:18:26.702880Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-30T14:18:26.702884Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/519374_certificado-de-adhesion_pages-payan_marc-pdf.pdf" added="2022-08-30T14:19:14.358271Z" modified="2022-08-30T14:19:14.358285Z" visited="2022-08-30T14:19:14.358275Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-30T14:19:14.358280Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/397eaa_informacion-impoprtante-antes-del-viaje-a-irlanda-pdf.pdf" added="2022-08-30T14:19:58.475777Z" modified="2022-08-30T14:19:58.475784Z" visited="2022-08-30T14:19:58.475779Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-30T14:19:58.475782Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/397eaa_informacion-impoprtante-antes-del-viaje-a-irlanda-pdf-1.pdf" added="2022-08-30T14:22:20.848493Z" modified="2022-08-30T14:22:20.848500Z" visited="2022-08-30T14:22:20.848495Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-30T14:22:20.848497Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/991212_2022%20Gu%C3%ADa%20del%20alumno%20-%20A%C3%B1o%20Semestre%20y%20Trimestre%20Escolar%20en%20Irlanda..pdf" added="2022-08-30T14:22:31.509147Z" modified="2022-08-30T14:22:31.509153Z" visited="2022-08-30T14:22:31.509148Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-30T14:22:31.509151Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/fe090c_Acad%C3%A9micos%20Irlanda%20-%20(4)%20Detalles%20del%20Vuelo%20YPE22-95%20-%20Marc%20Pages%20Payan.pdf" added="2022-08-30T14:29:45.650211Z" modified="2022-08-30T14:29:45.650255Z" visited="2022-08-30T14:29:45.650243Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-30T14:29:45.650250Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/fcb623_holydays-school-year-22-23-pdf.pdf" added="2022-08-30T14:30:48.490039Z" modified="2022-08-30T14:30:48.490046Z" visited="2022-08-30T14:30:48.490040Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-08-30T14:30:48.490043Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Code/memo" added="2022-09-10T09:28:34.580561Z" modified="2022-09-10T09:28:34.580564Z" visited="2022-09-10T09:28:34.580561Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="lapce" exec="&apos;lapce %u&apos;" modified="2022-09-10T09:28:34.580562Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/n4868.pdf" added="2022-09-12T20:47:22.950880Z" modified="2022-09-12T20:47:22.950890Z" visited="2022-09-12T20:47:22.950882Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-12T20:47:22.950886Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/vdoc.pub_oreilly-effective-modern-c-42-specific-ways-to-improve-your-use-of-c11-and-c14.epub" added="2022-09-13T19:58:12.806753Z" modified="2022-09-13T19:58:14.432865Z" visited="2022-09-13T19:58:12.806754Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/epub+zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-13T19:58:14.432855Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/Letmeread.net_Cplusplus20.The.Complete.Guide.rar" added="2022-09-13T20:03:50.829813Z" modified="2022-09-13T20:04:03.410217Z" visited="2022-09-13T20:03:50.829815Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-13T20:04:03.410205Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/marc/Downloads/A%20Tour%20of%20C++%20(2nd%20Edition).pdf" added="2022-09-13T20:13:12.426029Z" modified="2022-09-13T20:13:12.729472Z" visited="2022-09-13T20:13:12.426035Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-13T20:13:12.729461Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

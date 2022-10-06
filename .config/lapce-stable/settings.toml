@@ -1,0 +1,38 @@
+
+[lapce]
+modal = true
+color-theme = "Lapce Dark"
+
+[theme]
+
+[theme.base]
+black = "#282a36"
+yellow = "#f1fa8c"
+red = "#ff5555"
+purple = "#bd93f9"
+orange = "#ffb86c"
+magenta = "#ff79c6"
+grey = "#44475a"
+green = "#50fa7b"
+white = "#f8f8f2"
+cyan = "#8be9fd"
+blue = "#6272a4"
+
+[theme.syntax]
+comment = "#blue"
+
+[theme.ui]
+"activity.background" = "$black"
+"completion.background" = "$black"
+"completion.current" = "$grey"
+"editor.caret" = "$cyan"
+"editor.current_line" = "$grey"
+"editor.dim" = "$grey"
+"editor.focus" = "$grey"
+"editor.foreground" = "$white"
+"error_lens.error.background" = "$red"
+"error_lens.error.foreground" = "$magenta"
+
+[ui]
+font-size = 15
+font-family = "JetBrainsMono Nerd Font"

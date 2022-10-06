@@ -1,0 +1,6 @@
+[Bookmarks]
+[Recent]
+/home/marc/Desktop/
+/home/marc/Code/memo/models/test/
+/home/marc/Code/memo/models/
+/home/marc/Desktop/source/

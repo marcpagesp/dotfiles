@@ -1,0 +1,118 @@
+[2022-09-10][10:32:32][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:32:32][reqwest::connect][DEBUG] starting new connection: https://lapce.dev/
+[2022-09-10][10:32:32][hyper::client::connect::dns][DEBUG] resolving host="lapce.dev"
+[2022-09-10][10:32:32][reqwest::connect][DEBUG] starting new connection: https://api.github.com/
+[2022-09-10][10:32:32][hyper::client::connect::dns][DEBUG] resolving host="api.github.com"
+[2022-09-10][10:32:32][druid::localization][DEBUG] available locales [], current en-US
+[2022-09-10][10:32:32][druid::localization][DEBUG] resolved: [en-US]
+[2022-09-10][10:32:32][hyper::client::connect::http][DEBUG] connecting to 140.82.121.6:443
+[2022-09-10][10:32:32][hyper::client::connect::http][DEBUG] connecting to 185.199.111.153:443
+[2022-09-10][10:32:32][druid_shell::backend::gtk::application][INFO] gtk: Activated application
+[2022-09-10][10:32:32][alacritty_terminal::term][DEBUG] New num_cols is 254 and num_lines is 10
+[2022-09-10][10:32:32][hyper::client::connect::http][DEBUG] connected to 185.199.111.153:443
+[2022-09-10][10:32:32][hyper::client::connect::http][DEBUG] connected to 140.82.121.6:443
+[2022-09-10][10:32:32][reqwest::async_impl::client][DEBUG] response '200 OK' for https://lapce.dev/volts
+[2022-09-10][10:32:32][hyper::client::pool][DEBUG] pooling idle connection for ("https", lapce.dev)
+[2022-09-10][10:32:33][reqwest::async_impl::client][DEBUG] response '200 OK' for https://api.github.com/repos/lapce/lapce/releases/latest
+[2022-09-10][10:32:33][hyper::client::pool][DEBUG] pooling idle connection for ("https", api.github.com)
+[2022-09-10][10:32:59][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:33:09][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:33:17][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:33:17][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:34:35][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:35:24][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:35:26][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:35:30][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:35:34][druid_shell::backend::gtk::window][ERROR] failed to borrow WinHandler at /build/.cargo/git/checkouts/druid-f6980810fb848923/3e53ab2/druid-shell/src/backend/gtk/window.rs:534:27
+[2022-09-10][10:35:34][druid_shell::backend::gtk::window][ERROR] failed to borrow WinHandler at /build/.cargo/git/checkouts/druid-f6980810fb848923/3e53ab2/druid-shell/src/backend/gtk/window.rs:536:27
+[2022-09-10][10:35:35][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:35:40][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:35:58][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:36:07][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:36:12][druid_shell::backend::gtk::window][ERROR] failed to borrow WinHandler at /build/.cargo/git/checkouts/druid-f6980810fb848923/3e53ab2/druid-shell/src/backend/gtk/window.rs:649:27
+[2022-09-10][10:36:12][druid_shell::backend::gtk::window][ERROR] failed to borrow WinHandler at /build/.cargo/git/checkouts/druid-f6980810fb848923/3e53ab2/druid-shell/src/backend/gtk/window.rs:534:27
+[2022-09-10][10:36:12][druid_shell::backend::gtk::window][ERROR] failed to borrow WinHandler at /build/.cargo/git/checkouts/druid-f6980810fb848923/3e53ab2/druid-shell/src/backend/gtk/window.rs:536:27
+[2022-09-10][10:36:13][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:36:13][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:36:20][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:36:31][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:36:31][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:36:40][druid_shell::backend::gtk::window][ERROR] failed to borrow WinHandler at /build/.cargo/git/checkouts/druid-f6980810fb848923/3e53ab2/druid-shell/src/backend/gtk/window.rs:1175:26
+[2022-09-10][10:36:41][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:37:33][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:37:38][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:37:38][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:37:41][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:37:42][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:37:44][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:37:47][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:37:49][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:38:16][druid_shell::backend::gtk::window][ERROR] failed to borrow WinHandler at /build/.cargo/git/checkouts/druid-f6980810fb848923/3e53ab2/druid-shell/src/backend/gtk/window.rs:534:27
+[2022-09-10][10:38:16][druid_shell::backend::gtk::window][ERROR] failed to borrow WinHandler at /build/.cargo/git/checkouts/druid-f6980810fb848923/3e53ab2/druid-shell/src/backend/gtk/window.rs:536:27
+[2022-09-10][10:38:16][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:38:39][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:38:39][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:38:39][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:38:42][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:38:42][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:38:47][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:39:29][alacritty_terminal::term][DEBUG] New num_cols is 121 and num_lines is 10
+[2022-09-10][10:39:31][alacritty_terminal::term][DEBUG] New num_cols is 254 and num_lines is 10
+[2022-09-10][10:42:19][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:42:52][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:43:06][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:43:07][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:43:07][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:43:09][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:43:11][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:43:11][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:43:12][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:43:14][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:43:17][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:43:18][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:43:20][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:43:21][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:43:34][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:43:37][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:43:40][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:43:40][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:43:41][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:45:34][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:45:34][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:45:35][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:45:40][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:45:40][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:45:40][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:45:41][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:45:42][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:45:42][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:45:43][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:46:08][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:46:09][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:46:25][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:46:26][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:46:26][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:46:28][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:47:22][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:47:24][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:47:24][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:47:25][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:47:35][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:47:37][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:47:38][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:47:51][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:47:52][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:47:53][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:47:54][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:47:56][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:47:56][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:47:58][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:48:02][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:48:04][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:48:31][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:48:33][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:48:45][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:48:45][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:48:45][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:48:45][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps
+[2022-09-10][10:48:47][lapce_data::keypress][ERROR] Failed to load from "/home/marc/.config/lapce-stable/keymaps.toml": no keymaps

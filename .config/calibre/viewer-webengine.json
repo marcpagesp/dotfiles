@@ -1,0 +1,32 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAAAAAAGQAACL8AAALIAAAAAQAAABoAAAi+AAACxwAAAAAAAAAACMAAAAABAAAAGgAACL4AAALH"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIoA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAmgD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACEAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAPIA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAFAD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAANIA////AAAIvgAAAq4AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "controls_help_shown_count": 1,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Van Der Linden, Peter"
+        ],
+        "key": "/home/marc/Books/Van Der Linden, Peter/Expert C Programming - Deep C Secrets (8)/Expert C Programming - Deep C Secrets - Van Der Linden, Peter.epub",
+        "pathtoebook": "/home/marc/Books/Van Der Linden, Peter/Expert C Programming - Deep C Secrets (8)/Expert C Programming - Deep C Secrets - Van Der Linden, Peter.epub",
+        "timestamp": "2022-08-10T10:43:24.722Z",
+        "title": "' Expert C Programming - Deep C Secrets' By Peter Van Der Linden"
+      }
+    ]
+  }
+}
